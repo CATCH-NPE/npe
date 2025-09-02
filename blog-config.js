@@ -2,7 +2,7 @@ module.exports = {
   title: "CATCH NPE",
   description: "CATCH NPE tech blog",
   author: "jc, 023",
-  siteUrl: "https://legendary-dusk-1e9c6b.netlify.app",
+  siteUrl: "https://catch-npe.netlify.app/",
   links: {
     github: "https://github.com/CATCH-NPE"
   },
