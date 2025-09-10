@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://catch-npe.netlify.app/npe/sitemap-index.xml
+Sitemap: https://catch-npe.netlify.app/sitemap-index.xml
 Host: https://catch-npe.netlify.app
