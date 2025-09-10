@@ -4,7 +4,7 @@ description: "멀티 쓰레드 프로그래밍의 동시성 이슈와 Thread-Saf
 date: 2025-09-14
 update: 2025-09-14
 tags:
-  - os
+  - 운영체제
 series: "프로세스와 쓰레드에 대해서 알아보기"
 ---
 

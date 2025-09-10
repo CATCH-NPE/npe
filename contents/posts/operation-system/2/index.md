@@ -4,7 +4,7 @@ description: "CPU 스케줄링, 시스템 자원 관리"
 date: 2025-09-05
 update: 2025-09-05
 tags:
-  - os
+  - 운영체제
 series: "운영체제 기본 개념"
 ---
 

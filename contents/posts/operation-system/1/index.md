@@ -4,7 +4,7 @@ description: "운영체제의 역할과 커널의 기능"
 date: 2025-09-04
 update: 2025-09-04
 tags:
-  - os
+  - 운영체제
 series: "운영체제 기본 개념"
 ---
 

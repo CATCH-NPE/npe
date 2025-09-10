@@ -4,7 +4,7 @@ description: "인터럽트와 DMA를 통한 효율적 입출력 처리"
 date: 2025-09-08
 update: 2025-09-08
 tags:
-  - os
+  - 운영체제
 series: "운영체제 기본 개념"
 ---
 
