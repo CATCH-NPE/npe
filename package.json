@@ -67,7 +67,6 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "prebuild": "npm install --legacy-peer-deps",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
