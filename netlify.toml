@@ -1,0 +1,8 @@
+[build]
+command = "npm install --legacy-peer-deps && gatsby clean && gatsby build"
+publish = "public"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
