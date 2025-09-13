@@ -1,11 +1,11 @@
 ---
-title: "2. 쓰레드 "
+title: "4. 쓰레드 "
 description:
 date: 2025-09-08
 update: 2025-09-08
 tags:
   - 운영체제
-series: "프로세스와 쓰레드"
+series: "운영체제"
 ---
 
 ## 쓰레드란?

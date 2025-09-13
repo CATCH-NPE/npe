@@ -5,7 +5,7 @@ date: 2025-09-03
 update: 2025-09-03
 tags:
   - 운영체제
-series: "운영체제 기본 개념"
+series: "운영체제"
 ---
 
 ## 운영체제(OS, Operating System)
