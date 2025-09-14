@@ -22,7 +22,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 <br>
 
-![img.png](문맥교환.png)
+![img.png](context_switching.png)
 [사진출처](https://yoongrammer.tistory.com/53)
 
 결국 프로세스 A에서 B로 프로세스가 넘어가는 순간에 프로세스 A정보를 백업하고 그작업이 끝난다면
@@ -45,7 +45,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 프로세스 상태는 크게 다섯가지로 나뉠 수 있습니다.
 
-![img.png](프로세스 상태 전이도.png)
+![img.png](process_state.png)
 [사진출처](https://thebook.io/080367/0021/)
 
 <br>
@@ -100,7 +100,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 <br>
 
-![img.png](프로세스 계층 구조.png)
+![img.png](process_layer.png)
 [사진 출처: 혼자 공부하는 운영체제 저자:강민철]
 
 <br>

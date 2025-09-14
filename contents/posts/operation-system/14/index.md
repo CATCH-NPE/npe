@@ -1,8 +1,8 @@
 ---
-title: "13. CPU 스케줄링 알고리즘 (FCFS, SJF, SRTF, 우선순위, 라운드 로빈)"
+title: "14. CPU 스케줄링 알고리즘 (FCFS, SJF, SRTF, 우선순위, 라운드 로빈)"
 description: "CPU 스케줄링 알고리즘 (FCFS, SJF, SRTF, 우선순위, 라운드 로빈)"
-date: 2025-09-15
-update: 2025-09-15
+date: 2025-09-17
+update: 2025-09-17
 tags:
   - 운영체제
 series: "CPU 스케줄링"
@@ -38,7 +38,7 @@ series: "CPU 스케줄링"
 
 ---
 
-![img.png](선입선처리.png)
+![img.png](fcfs.png)
 
 <br>
 
@@ -64,7 +64,7 @@ FCFS는 **준비 큐**에 들어가있는 순서대로 CPU를 할당하는 간�
 
 ---
 
-![img.png](최단작업우선.png)
+![img.png](sjf.png)
 
 <br>
 
@@ -94,7 +94,7 @@ FCFS는 **준비 큐**에 들어가있는 순서대로 CPU를 할당하는 간�
 
 ---
 
-![img.png](라운드로빈.png)
+![img.png](round_robin.png)
 
 <br>
 
@@ -118,7 +118,7 @@ FCFS는 **준비 큐**에 들어가있는 순서대로 CPU를 할당하는 간�
 
 ---
 
-![img.png](최소잔여시간우선.png)
+![img.png](srt.png)
 
 <br>
 

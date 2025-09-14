@@ -21,7 +21,7 @@ series: "운영체제 기본 개념"
 <br>
 
 
-![img.png](이중모드.png)
+![img.png](dual_mode.png)
 
 <br>
 
@@ -55,7 +55,7 @@ series: "운영체제 기본 개념"
 
 <br>
 
-![img.png](시스템콜.png)
+![img.png](system_call.png)
 
 <br>
 
@@ -67,7 +67,7 @@ series: "운영체제 기본 개념"
 
 <br>
 
-![img.png](시스템콜작동방식.png)
+![img.png](system_call_method.png)
 
 <br>
 

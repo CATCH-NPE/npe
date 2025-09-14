@@ -12,7 +12,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 ---
 
-![img.png](스레드.png)
+![img.png](thread.png)
 
 <br>
 
@@ -34,7 +34,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 전통적인 CPU는 하나의 프로세스만 처리할 수 있었습니다. 메모장, 워드, 게임등 많은 프로세스가 하나의 실행
 흐름을 가지고 한 번의 하나의 부분만 실행되는 프로세스입니다.
 
-![img.png](단일스레드 프로세스.png)
+![img.png](single_process.png)
 
 이런 프로세스를 단일 스레드 프로세스라고 부릅니다.
 
@@ -43,7 +43,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 하지만, 스레드라는 개념이 도입되면서 하나의 프로세스가 한 번에 여러가지 일을 동시에 처리하는 것이 가능해졌습니다.
 프로세스를 구성하는 명령어를 동시에 처리하는것이 가능해졌습니다.
 
-![img.png](멀티스레드 프로세스.png)
+![img.png](multi_thread_process.png)
 
 <br>
 
@@ -59,7 +59,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 ---
 
-![img.png](메모리구조.png)
+![img.png](memory_model.png)
 
 스레드의 메모리 구조를 이해하기 위해서는 이전 프로세서의 구조를 상기해봐야 합니다.
 
@@ -74,7 +74,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 <br>
 
-![img.png](스레드자원공유.png)
+![img.png](thread_resource.png)
 [사진출처](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
 
 <br>
@@ -113,7 +113,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 
 
-![img.png](TCB확장.png)
+![img.png](TCB3.png)
 
 
 <br>

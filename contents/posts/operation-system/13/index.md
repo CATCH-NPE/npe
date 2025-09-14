@@ -1,8 +1,8 @@
 ---
 title: "13. 선점형과 비선점형 스케줄링의 차이 및 기아 상태와 해결 방법"
 description: "선점형과 비선점형 스케줄링의 차이 및 기아 상태와 해결 방법"
-date: 2025-09-15
-update: 2025-09-15
+date: 2025-09-16
+update: 2025-09-16
 tags:
   - 운영체제
 series: "CPU 스케줄링"
@@ -34,7 +34,7 @@ series: "CPU 스케줄링"
 
 <br>
 
-![img.png](선점형스케줄링.png)
+![img.png](preemptive.png)
 
 <br>
 <br>
@@ -50,7 +50,7 @@ series: "CPU 스케줄링"
 
 <br>
 
-![img.png](비선점형스케줄링.png)
+![img.png](non_preemptive .png)
 
 <br>
 <br>

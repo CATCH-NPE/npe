@@ -15,7 +15,7 @@ series: "프로세스와 쓰레드에 대해서 알아보기"
 
 <br>
 
-![img.png](동시성이슈.png)
+![img.png](concurrency.png)
 
 <br>
 
