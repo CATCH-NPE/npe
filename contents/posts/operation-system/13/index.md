@@ -50,7 +50,7 @@ series: "CPU 스케줄링"
 
 <br>
 
-![img.png](non_preemptive .png)
+![img.png](non_preemptive.png)
 
 <br>
 <br>
