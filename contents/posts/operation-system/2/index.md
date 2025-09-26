@@ -1,5 +1,5 @@
 ---
-title: "2. CPU 스케줄링, 시스템 자원 관리"
+title: "CPU 스케줄링, 시스템 자원 관리"
 description: "CPU 스케줄링, 시스템 자원 관리"
 date: 2025-09-05
 update: 2025-09-05

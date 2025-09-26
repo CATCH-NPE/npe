@@ -1,5 +1,5 @@
 ---
-title: "11. 멀티 쓰레드 프로그래밍의 동시성 이슈와 Thread-Safe 설계 방법"
+title: "멀티 쓰레드 프로그래밍의 동시성 이슈와 Thread-Safe 설계 방법"
 description: "멀티 쓰레드 프로그래밍의 동시성 이슈와 Thread-Safe 설계 방법"
 date: 2025-09-14
 update: 2025-09-14

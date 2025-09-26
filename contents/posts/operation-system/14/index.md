@@ -1,5 +1,5 @@
 ---
-title: "14. CPU 스케줄링 알고리즘 (FCFS, SJF, SRTF, 우선순위, 라운드 로빈)"
+title: "CPU 스케줄링 알고리즘 (FCFS, SJF, SRTF, 우선순위, 라운드 로빈)"
 description: "CPU 스케줄링 알고리즘 (FCFS, SJF, SRTF, 우선순위, 라운드 로빈)"
 date: 2025-09-17
 update: 2025-09-17
