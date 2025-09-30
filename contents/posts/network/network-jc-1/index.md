@@ -177,6 +177,14 @@ series: "컴퓨터 네트워크의 기본 개념"
 각각 학교 또는 회사의 여러 건물 단위로 연결되는 규모의 네트워크를 의미하고, 도시나 대도시 단위로 연결되는 규모의
 네트워크를 의미합니다.
 
+<br>
+<br>
 
+
+## 출처
+
+---
+
+[이미지 출처](https://www.inflearn.com/course/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/dashboard)
 
 
