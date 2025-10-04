@@ -4,8 +4,8 @@ description: "네트워크 계층 ip에 대하여"
 date: 2025-09-30
 update: 2025-09-30
 tags:
-- 네트워크
-  series: "네트워크 레이어(IP)"
+  - 네트워크
+series: "네트워크 레이어(IP)"
 ---
 
 ## 네트워크 계층이 필요한 이유?
@@ -166,6 +166,14 @@ B는 자신의 MAC주소를 담은 메시지를 A에게 전송합니다. 이 유
 ARP응답을 받게 되면 해당 호스트는 IP주소와 MAC주소를 매핑하여 저장합니다.
 ARP 테이블은 일정 시간이 지나면 삭제되고, 임의로 삭제할 수도 있습니다.
 
+
+
+
+## 출처
+
+---
+
+[이미지 출처](https://www.inflearn.com/course/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/dashboard)
 
 
 
