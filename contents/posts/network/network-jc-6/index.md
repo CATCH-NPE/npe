@@ -4,10 +4,8 @@ description: "라우팅이란?"
 date: 2025-10-02
 update: 2025-10-02
 tags:
-
-- 네트워크
-  series: "네트워크 레이어(IP)"
-
+  - 네트워크
+series: "네트워크 레이어(IP)"
 ---
 
 ## 개요
